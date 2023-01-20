@@ -1,4 +1,22 @@
-* This is the title
+#+TITLE0:    +-----------+-----------+-----------+-----------+-----------+
+#+TITLE0:    |     .     | __     __ |    ___    |   ____    |   ____    |
+#+TITLE0:    |    / \    | \ \   / / |   ( _ )   |  |  _ \   |  |  _ \   |
+#+TITLE0:    |   / _ \   |  \ \ / /  |   / _ \   |  | |_) |  |  | |_) |  |
+#+TITLE0:    |  / ___ \  |   \ V /   |  | (_) |  |  |  _ <   |  |  _ <   |
+#+TITLE0:    | /_/   \_\ |    \_/    |   \___/   |  |_| \_\  |  |_| \_\  |
+#+TITLE0:    |           |           |           |           |           |
+#+TITLE0:    +-----------+-----------+-----------+-----------+-----------+
+#+TITLE0:    
+#+TITLE0:    AV8RR
+#+TITLE0:    
+#+Title: Rajbhog Cooking Class - README
+#+Author: Rakesh Rathod
+* Welcome
+
+You must have come here for information, so let's get you going!
+
+This site contains folders for each season/episode of videos that were produced for our cooking and training classes.
+
 ** Look up the appropriate episode
 
 # This find the file you need to build you item

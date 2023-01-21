@@ -9,14 +9,16 @@
 #+TITLE0:    
 #+TITLE0:    AV8RR
 #+TITLE0:    
-#+Title: Rajbhog Cooking Class - README
+#+Title: Cooking @ Rajbhog Studios
 #+Author: Rakesh Rathod
+
+The world is full of cooking classes, cooking videos, books, audio, movies, etc. So what makes this worth your time? The Internet has brought many people together ... and has created a divide at the some.
+
+Cooking @ Rajbhog is designed to bring the community together through a shared interest in a healthy, informed food lifestyle. We can eat with regard to many factors including a higher quality of life on this journey.
+
 * Welcome
 
 You must have come here for information, so let's get you going!
 
-This site contains folders for each season/episode of videos that were produced for our cooking and training classes.
+This site contains folders for each season/episode of videos that were produced for our cooking and training classes. In each folder, you will find recipes along with other helpful information for that episode.
 
-** Look up the appropriate episode
-
-# This find the file you need to build you item
